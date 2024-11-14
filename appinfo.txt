@@ -1,0 +1,1 @@
+An application dealing with market predictions based on historic data.
